@@ -38,8 +38,8 @@ _
 _
 ### Program: Read and Write
 
-### Developed By: Eluru Ganesh
-### Register Number: 212220230016
+### Developed By: veerapalli janith chowdary
+### Register Number: 212220230057
 
 _
 *i) # To Read,display the image*

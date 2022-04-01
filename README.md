@@ -38,28 +38,28 @@ _
 _
 ### Program: Read and Write
 
-### Developed By: veerapalli janith chowdary
+### Developed By: VEERAPALLI JANITH CHOWDARY
 ### Register Number: 212220230057
 
 _
 *i) # To Read,display the image*
 
-  python
-  import 
+  ```python
+  import cv2
   cv2.imshow('color image',color_image)
-  gray_image=cv2.imread('x.jpg',0)
+  gray_image=cv2.imread('v.jpg',0)
   cv2.imshow('color image',color_image)
   cv2.imshow('grayimage',gray_image)
   cv2.waitKey(0)
 
-  
+  ```
 
 **ii) #To write the image**
     
    
-   `python
-    cv2.imwrite('x.jpg',gray_image)
-  `
+   ```python
+    cv2.imwrite('v.jpg',gray_image)
+  
 
 
 
@@ -89,35 +89,35 @@ plt.imshow(color_image)
 
 ```
 
-## *OUT PUT*:
+## *OUT PUT:*
 **i) Read and display the image**
 
 
 
-__![Image Link](https://github.com/veerapallijanith/Read-and-Write-Image/blob/main/jan1.jpeg)__
+__![Image Link](https://github.com/veerapallijanith/Read-and-Write-Image/blob/main/janc.jpg)__
 
 
-__![Image Link](https://github.com/veerapallijanith/Read-and-Write-Image/blob/main/jan2.jpeg)__
+__![Image Link](https://github.com/veerapallijanith/Read-and-Write-Image/blob/main/jang.jpg)__
 
 *ii)Write the image*
 
-__![Image Link](https://github.com/veerapallijanith/Read-and-Write-Image/blob/main/jan2.jpeg)__
+__![Image Link](https://github.com/veerapallijanith/Read-and-Write-Image/blob/main/jang.jpg)__
 
 
 *iii)Shape of the Image*
 
-__![Image Link](https://github.com/veerapallijanith/Read-and-Write-Image/blob/main/jan3.jpeg)__
+__![Image Link](https://github.com/veerapallijanith/Read-and-Write-Image/blob/main/jans.jpg)__
 
 *iv)Access rows and columns*
 
-__![Image Link](https://github.com/veerapallijanith/Read-and-Write-Image/blob/main/jan4.jpeg)__
-
+__![Image Link](https://github.com/veerapallijanith/Read-and-Write-Image/blob/main/janr.jpg)__
 
 
 *v)Cut and paste portion of image*
 
+__![Image Link](https://github.com/veerapallijanith/Read-and-Write-Image/blob/main/janl.jpg)__
 
 
-## *Result:*
+## **Result:**
 
 Thus the images are read, displayed, and written successfully using the python program
